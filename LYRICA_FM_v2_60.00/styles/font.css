@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'UniversLTStdCn';
+    src: url('fonts/UniversLTStdCn.eot');
+    src: url('fonts/UniversLTStdCn.eot') format('embedded-opentype'),
+         url('fonts/UniversLTStdCn.woff2') format('woff2'),
+         url('fonts/UniversLTStdCn.woff') format('woff'),
+         url('fonts/UniversLTStdCn.ttf') format('truetype'),
+         url('fonts/UniversLTStdCn.svg#UniversLTStdCn') format('svg');
+}
+@font-face {
+    font-family: 'InterstateBoldCondensed';
+    src: url('fonts/InterstateBoldCondensed.eot');
+    src: url('fonts/InterstateBoldCondensed.eot') format('embedded-opentype'),
+         url('fonts/InterstateBoldCondensed.woff2') format('woff2'),
+         url('fonts/InterstateBoldCondensed.woff') format('woff'),
+         url('fonts/InterstateBoldCondensed.ttf') format('truetype'),
+         url('fonts/InterstateBoldCondensed.svg#InterstateBoldCondensed') format('svg');
+}
+@font-face {
+    font-family: 'MyriadProRegular';
+    src: url('fonts/MyriadProRegular.eot');
+    src: url('fonts/MyriadProRegular.eot') format('embedded-opentype'),
+         url('fonts/MyriadProRegular.woff2') format('woff2'),
+         url('fonts/MyriadProRegular.woff') format('woff'),
+         url('fonts/MyriadProRegular.ttf') format('truetype'),
+         url('fonts/MyriadProRegular.svg#MyriadProRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'interstate-regularregular';
+    src: url('fonts/intr____-webfont.eot');
+    src: url('fonts/intr____-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/intr____-webfont.woff2') format('woff2'),
+         url('fonts/intr____-webfont.woff') format('woff'),
+         url('fonts/intr____-webfont.ttf') format('truetype'),
+         url('fonts/intr____-webfont.svg#interstate-regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'interstate-regularcondensedRg';
+    src: url('fonts/intrcn__-webfont.eot');
+    src: url('fonts/intrcn__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/intrcn__-webfont.woff2') format('woff2'),
+         url('fonts/intrcn__-webfont.woff') format('woff'),
+         url('fonts/intrcn__-webfont.ttf') format('truetype'),
+         url('fonts/intrcn__-webfont.svg#interstate-regularcondensedRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+	font-family:'UniversLTStd-BoldCn';
+	src: url('fonts/UniversLTStd-BoldCn_gdi.eot');
+	src: url('fonts/UniversLTStd-BoldCn_gdi.eot?#iefix') format('embedded-opentype'),
+		url('fonts/UniversLTStd-BoldCn_gdi.woff') format('woff'),
+		url('fonts/UniversLTStd-BoldCn_gdi.ttf') format('truetype'),
+		url('fonts/UniversLTStd-BoldCn_gdi.svg#UniversLTStd-BoldCn') format('svg');
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: condensed;
+	unicode-range: U+0020-25CA;
+}
+@font-face {
+    font-family: 'HelveticaLTStdCond';
+    src: url('fonts/HelveticaLTStdCond.eot');
+    src: url('fonts/HelveticaLTStdCond.eot') format('embedded-opentype'),
+         url('fonts/HelveticaLTStdCond.woff2') format('woff2'),
+         url('fonts/HelveticaLTStdCond.woff') format('woff'),
+         url('fonts/HelveticaLTStdCond.ttf') format('truetype'),
+         url('fonts/HelveticaLTStdCond.svg#HelveticaLTStdCond') format('svg');
+}
+@font-face {
+    font-family: 'HelveticaLTStdBoldCond';
+    src: url('fonts/HelveticaLTStdBoldCond.eot');
+    src: url('fonts/HelveticaLTStdBoldCond.eot') format('embedded-opentype'),
+         url('fonts/HelveticaLTStdBoldCond.woff2') format('woff2'),
+         url('fonts/HelveticaLTStdBoldCond.woff') format('woff'),
+         url('fonts/HelveticaLTStdBoldCond.ttf') format('truetype'),
+         url('fonts/HelveticaLTStdBoldCond.svg#HelveticaLTStdBoldCond') format('svg');
+}
+@font-face {
+	font-family: 'HelveticaLTStd-Cond';
+	font-style: normal;
+	font-weight: normal;
+	src: url('fonts/HelveticaLTStd-Cond.ttf') format('truetype');
+}
